@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hustlerlaserfab.github.io/shopfab/sitemap.xml
